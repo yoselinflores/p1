@@ -1,0 +1,28 @@
+.nombre{
+    text-transform: uppercase;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: url(/FORMULARIOS/galaxia.avif) center/cover no-repeat fixed;
+}
+form{
+    background: rgb(210, 167, 247);
+    padding: 20px;
+    margin: 20px auto;
+    display: block;
+  width: 40%;
+  padding: 70px 0;
+  border: 3px solid rgb(128, 0, 111);
+}
+fieldset{
+    border: 5px solid rgb(157, 73, 165);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+label{
+    display: block;
+    margin-bottom: 8PX;
+    font-weight: bold;
+    color: black;
+}
