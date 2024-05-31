@@ -3,7 +3,7 @@
 }
 body{
     font-family: 'Times New Roman', Times, serif;
-    background: url(/FORMULARIOS/galaxia.avif) center/cover no-repeat fixed;
+    background: url(/galaxia.avif) center/cover no-repeat fixed;
 }
 form{
     background: rgb(210, 167, 247);
